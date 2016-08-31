@@ -27,4 +27,4 @@ The following changes have been incorporated in this version, RAPID PHP 21.
 
 13. 'Order By' and 'Search By' options have been separated when generating pages, so you can order by on a different field and search by a different field.
 
-14. New version of JQuery has been used.
+14. New version of JQuery has been used..
